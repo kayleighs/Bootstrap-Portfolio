@@ -1,0 +1,17 @@
+body {
+    background: url("subtle_grunge_@2X.png")
+}
+
+.kslogo {
+    background: #4aaaa5;
+    font-size: 1.75rem
+    
+}
+.ksheader {
+    color: #4aaaa5
+}
+
+
+.ksnavbar {
+    padding: 0px 0px 0px 0px;
+}
