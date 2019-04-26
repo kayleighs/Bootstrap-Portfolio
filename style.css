@@ -63,7 +63,23 @@ body {
     padding-right:0px;
 }
 
-
+/*for portfolio page*/
+.ksimagecrop{
+    width: 269px;
+    height: 200px;
+    object-fit: cover;
+}
+.ks-banner {
+    bottom: 7px;
+    height: 50px;
+    width: 100%;
+    background: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 18px;
+    padding: 8px 0
+}
 
 /*for contact page*/
 .ksinputtext {
@@ -77,3 +93,4 @@ body {
 .kssubmitbut:hover {
     background-color: #5ACCC6;
 }
+
