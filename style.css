@@ -35,7 +35,8 @@ body {
 .kscontent {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
-     line-height: 35px;
+    line-height: 35px;
+    font-size:1.125rem;
 }
 
 
@@ -60,4 +61,19 @@ body {
 .container {
     padding-left: 0px;
     padding-right:0px;
+}
+
+
+
+/*for contact page*/
+.ksinputtext {
+    font-size: .8rem;
+}
+
+.kssubmitbut {
+    background-color: #4aaaa5;
+    color:#ffffff;
+}
+.kssubmitbut:hover {
+    background-color: #5ACCC6;
 }
