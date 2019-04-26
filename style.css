@@ -64,14 +64,18 @@ body {
 }
 
 /*for portfolio page*/
-.ksimagecrop{
+.ksimage{
+    max-width: auto;
+    height: auto;
+    object-fit: cover;
+}
+.ksimage2{
     width: 269px;
     height: 200px;
     object-fit: cover;
 }
 .ks-banner {
     bottom: 7px;
-    height: 50px;
     width: 100%;
     background: #4aaaa5;
     color: #ffffff;
@@ -80,7 +84,6 @@ body {
     font-size: 18px;
     padding: 8px 0
 }
-
 /*for contact page*/
 .ksinputtext {
     font-size: .8rem;
